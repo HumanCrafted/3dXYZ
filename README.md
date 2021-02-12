@@ -1,2 +1,2 @@
 # 3dXYZ
-An archive of files, parts, and other useful downloads.
+An archive of CAD files, STL's, and other useful downloads.
